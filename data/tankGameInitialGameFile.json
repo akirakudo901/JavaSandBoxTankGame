@@ -1,0 +1,297 @@
+{
+    "playerTank": {
+        "posX": 300,
+        "posY": 400,
+        "gunAngle": 0,
+        "bullets": []
+    },
+    "walls": [
+        {
+            "posX": 140,
+            "posY": 140
+        },
+        {
+            "posX": 180,
+            "posY": 100
+        },
+        {
+            "posX": 0,
+            "posY": 0
+        },
+        {
+            "posX": 560,
+            "posY": 0
+        },
+        {
+            "posX": 0,
+            "posY": 40
+        },
+        {
+            "posX": 560,
+            "posY": 40
+        },
+        {
+            "posX": 0,
+            "posY": 80
+        },
+        {
+            "posX": 560,
+            "posY": 80
+        },
+        {
+            "posX": 0,
+            "posY": 120
+        },
+        {
+            "posX": 560,
+            "posY": 120
+        },
+        {
+            "posX": 0,
+            "posY": 160
+        },
+        {
+            "posX": 560,
+            "posY": 160
+        },
+        {
+            "posX": 0,
+            "posY": 200
+        },
+        {
+            "posX": 560,
+            "posY": 200
+        },
+        {
+            "posX": 0,
+            "posY": 240
+        },
+        {
+            "posX": 560,
+            "posY": 240
+        },
+        {
+            "posX": 0,
+            "posY": 280
+        },
+        {
+            "posX": 560,
+            "posY": 280
+        },
+        {
+            "posX": 0,
+            "posY": 320
+        },
+        {
+            "posX": 560,
+            "posY": 320
+        },
+        {
+            "posX": 0,
+            "posY": 360
+        },
+        {
+            "posX": 560,
+            "posY": 360
+        },
+        {
+            "posX": 0,
+            "posY": 400
+        },
+        {
+            "posX": 560,
+            "posY": 400
+        },
+        {
+            "posX": 0,
+            "posY": 440
+        },
+        {
+            "posX": 560,
+            "posY": 440
+        },
+        {
+            "posX": 0,
+            "posY": 480
+        },
+        {
+            "posX": 560,
+            "posY": 480
+        },
+        {
+            "posX": 0,
+            "posY": 520
+        },
+        {
+            "posX": 560,
+            "posY": 520
+        },
+        {
+            "posX": 0,
+            "posY": 560
+        },
+        {
+            "posX": 560,
+            "posY": 560
+        },
+        {
+            "posX": 0,
+            "posY": 600
+        },
+        {
+            "posX": 560,
+            "posY": 600
+        },
+        {
+            "posX": 0,
+            "posY": 640
+        },
+        {
+            "posX": 560,
+            "posY": 640
+        },
+        {
+            "posX": 0,
+            "posY": 680
+        },
+        {
+            "posX": 560,
+            "posY": 680
+        },
+        {
+            "posX": 0,
+            "posY": 720
+        },
+        {
+            "posX": 560,
+            "posY": 720
+        },
+        {
+            "posX": 0,
+            "posY": 760
+        },
+        {
+            "posX": 560,
+            "posY": 760
+        },
+        {
+            "posX": 40,
+            "posY": 0
+        },
+        {
+            "posX": 40,
+            "posY": 760
+        },
+        {
+            "posX": 80,
+            "posY": 0
+        },
+        {
+            "posX": 80,
+            "posY": 760
+        },
+        {
+            "posX": 120,
+            "posY": 0
+        },
+        {
+            "posX": 120,
+            "posY": 760
+        },
+        {
+            "posX": 160,
+            "posY": 0
+        },
+        {
+            "posX": 160,
+            "posY": 760
+        },
+        {
+            "posX": 200,
+            "posY": 0
+        },
+        {
+            "posX": 200,
+            "posY": 760
+        },
+        {
+            "posX": 240,
+            "posY": 0
+        },
+        {
+            "posX": 240,
+            "posY": 760
+        },
+        {
+            "posX": 280,
+            "posY": 0
+        },
+        {
+            "posX": 280,
+            "posY": 760
+        },
+        {
+            "posX": 320,
+            "posY": 0
+        },
+        {
+            "posX": 320,
+            "posY": 760
+        },
+        {
+            "posX": 360,
+            "posY": 0
+        },
+        {
+            "posX": 360,
+            "posY": 760
+        },
+        {
+            "posX": 400,
+            "posY": 0
+        },
+        {
+            "posX": 400,
+            "posY": 760
+        },
+        {
+            "posX": 440,
+            "posY": 0
+        },
+        {
+            "posX": 440,
+            "posY": 760
+        },
+        {
+            "posX": 480,
+            "posY": 0
+        },
+        {
+            "posX": 480,
+            "posY": 760
+        },
+        {
+            "posX": 520,
+            "posY": 0
+        },
+        {
+            "posX": 520,
+            "posY": 760
+        }
+    ],
+    "enemyTanks": [
+        {
+            "posX": 150,
+            "posY": 200,
+            "gunAngle": 180,
+            "bullets": []
+        },
+        {
+            "posX": 450,
+            "posY": 600,
+            "gunAngle": 250,
+            "bullets": []
+        }
+    ],
+    "name": "currently played"
+}
