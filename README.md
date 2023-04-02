@@ -16,7 +16,8 @@ There was a very similar video game in my childhood that I really enjoyed,
 and I wanted to extend it by adding more tank and ammunition types.
 I am also hoping to possibly use the end product to train an
 AI, to extend my understanding on game AIs and AI in general.
-##User stories
+## User stories
+
 ***Below are the user stories I at least covered in Phase 1***
 
 The project (user side or game side) would like to:
@@ -115,7 +116,7 @@ As part of the app play, one would want to:
 - check for collision between tanks and tanks
 - save the current high score and number of game played
   and many more.
-##Acknowledgement
+## Acknowledgement
 - Although I directly did not use any code, I used the
 **B02-SpaceInvadersBase project** (private as part of CPSC210
 course contents) extensively as model for my GamePanel and 
@@ -138,14 +139,17 @@ below:
 https://github.students.cs.ubc.ca/CPSC210/AlarmSystem
 
 - The class "TankGameControlThroughKeyBindings" was extensively based on
-the **"MotionWithKeyBindings"** class originally created by Rob Camick. The 
-code can be found as of 2022/03/31 at the bottom of the following page:
+the **"MotionWithKeyBindings"** class originally created by Rob Camick. 
+
+The code can be found as of 2022/03/31 at the bottom of the following page:
 https://tips4java.wordpress.com/2013/06/09/motion-using-the-keyboard/
 
 - The "RotatableJLabel" inner class within the GamePanel class was extensively
 based on the "Rotated Icon" class provided by Rob Camick.
+
 The code can be obtained as of 2022/03/31 from a link in the web page below, 
 or directly from the link below.
+
 Webpage: https://tips4java.wordpress.com/2009/04/06/rotated-icon/
 Direct link: http://www.camick.com/java/source/RotatedIcon.java
 
