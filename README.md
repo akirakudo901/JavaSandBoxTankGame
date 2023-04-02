@@ -139,17 +139,12 @@ below:
 https://github.students.cs.ubc.ca/CPSC210/AlarmSystem
 
 - The class "TankGameControlThroughKeyBindings" was extensively based on
-the **"MotionWithKeyBindings"** class originally created by Rob Camick. 
-
-The code can be found as of 2022/03/31 at the bottom of the following page:
+the **"MotionWithKeyBindings"** class originally created by Rob Camick. The code can be found as of 2022/03/31 at the bottom of the following page:
 https://tips4java.wordpress.com/2013/06/09/motion-using-the-keyboard/
 
 - The "RotatableJLabel" inner class within the GamePanel class was extensively
-based on the "Rotated Icon" class provided by Rob Camick.
-
-The code can be obtained as of 2022/03/31 from a link in the web page below, 
+based on the "Rotated Icon" class provided by Rob Camick. The code can be obtained as of 2022/03/31 from a link in the web page below, 
 or directly from the link below.
-
 Webpage: https://tips4java.wordpress.com/2009/04/06/rotated-icon/
 Direct link: http://www.camick.com/java/source/RotatedIcon.java
 
